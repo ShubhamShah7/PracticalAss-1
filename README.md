@@ -1,13 +1,10 @@
 # File System Assignment
 
-<li>
-  <ul>Create Directory ( Hint: fs.mkdir )</ul>
-<ul>Remove Directory ( Hint: fs.rmdir )</ul>
-<ul>Write File</ul>
-<ul>Read File</ul>
-<ul>Delete File</ul>
-<ul>Append data to file</ul>
-<ul>Update / Replace file with new data</ul>
-<ul>Rename File</ul>
-
-</li>
+<li>Create Directory ( Hint: fs.mkdir )</li>
+<li>Remove Directory ( Hint: fs.rmdir )</li>
+<li>Write File</li>
+<li>Read File</li>
+<li>Delete File</li>
+<li>Append data to file</li>
+<li>Update / Replace file with new data</li>
+<li>Rename File</li>
